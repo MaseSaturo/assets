@@ -1,0 +1,33 @@
+{
+    "name": "Coin Meta BEP20 (CMB)",
+    "website": "https://CoinMetaBEP20.io/",
+    "description": "Coin Meta BEP20 is the token used in the web3.0",
+    "explorer": "https://bscscan.com/token/0x7EBC424f8218E109B45508e779f38b5044B8da6a",
+    "type": "BEP20",
+    "symbol": "CMB",
+    "decimals": 9,
+    "status": "active",
+    "id": "0x7EBC424f8218E109B45508e779f38b5044B8da6a",
+    "links": [
+        {
+            "name": "telegram",
+            "url": "https://t.me/CoinMetaBEP20"
+        },
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/CoinMetaBEP20"
+        },
+        {
+            "name": "instagram",
+            "url": "https://instagram.com/CoinMetaBEP20"
+        },
+        {
+            "name": "coinmarketcap",
+            "url": "https://coinmarketcap.com/currencies/CoinMetaBEP20/"
+        },
+        {
+            "name": "coingecko",
+            "url": "https://coingecko.com/en/coins/CoinMetaBEP20"
+        }
+    ]
+}
